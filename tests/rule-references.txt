@@ -3601,3 +3601,16 @@ https://github.com/fortra/nanodump
 https://www.malwarebytes.com/blog/detections/pup-optional-onelaunch-silentcf
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
+https://www.splunk.com/en_us/blog/security/you-bet-your-lsass-hunting-lsass-access.html
+https://objective-see.org/blog/blog_0x6D.html
+https://www.protect.airbus.com/blog/uncovering-cyber-intruders-netscan/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Pod%20or%20container%20name%20similarily/
+https://docs.python.org/3/library/site.html
+https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
+https://www.virustotal.com/gui/file/6bb4cdbaef03b732a93559a58173e7f16b29bfb159a1065fae9185000ff23b4b
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://app.any.run/tasks/6720b85b-9c53-4a12-b1dc-73052a78477d
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://www.huntress.com/blog/blackcat-ransomware-affiliate-ttps
+https://twitter.com/DTCERT/status/1712785426895839339
+https://paper.seebug.org/1495/
